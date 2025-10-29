@@ -38,7 +38,7 @@ family = "iMWritingMono Nerd Font Mono"
 
 [window]
 dynamic_padding = false
-#opacity = 0.6666667
+opacity = 0.9
 
 [window.padding]
 x = 0
